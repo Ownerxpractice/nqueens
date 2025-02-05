@@ -1,4 +1,4 @@
-#include <stdsio.h>
+#include <stdio.h>
 
 int mian(void)
 {
