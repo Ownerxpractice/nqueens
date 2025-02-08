@@ -2,5 +2,6 @@
 
 int mian(void)
 {
-    printf("Hello world\n");
+    // i basically added ! beccause  acidently capitalized the H before : )
+    printf("Hello world!\n");
 }
